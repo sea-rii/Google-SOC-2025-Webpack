@@ -75,5 +75,17 @@ Week 11-12 (August 11 - August 24)
   
 Post-GSoC: Maintain the packages, assist with community adoption, and contribute to webpack further.
 
+## Why This Project?
 
+* Impact: Simplifies webpack’s dev ecosystem, benefiting millions of developers.
+* Relevance: Tackles real duplication issues, aligning with webpack’s usability goals.
+* Feasibility: Leverages existing codebases, fitting GSoC’s timeline.
+I’m passionate about this project because I’ve struggled with webpack’s dev tools myself and want to make them more intuitive. My experience with [e.g., Node.js and webpack] positions me to succeed.
+
+## Why Me?
+* Skills Fit: My JavaScript, Node.js, and webpack experience match this project’s needs.
+* Enthusiasm: I’m driven to enhance webpack and grow through open-source mentorship.
+* Proactivity: I’ve already reviewed webpack-dev-server code.
+  
+I’d be honored to unify webpack’s dev tools with Alexander and Nitin’s guidance. Thank you for considering my proposal!
 
