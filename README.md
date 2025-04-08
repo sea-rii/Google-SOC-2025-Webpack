@@ -7,6 +7,11 @@ Webpack’s development tools—webpack-dev-server, webpack-hot-middleware, and 
 I propose to: extract hot-reload and client logic into a new webpack-hmr-middleware package, migrate relevant functionality from webpack-hot-middleware (then deprecate it), and restructure webpack-dev-server as a monorepo housing webpack-dev-middleware, webpack-hmr-middleware, and a leaner webpack-dev-server.
 
 ## About Me
+Hi, I am Sai Siri Chittineni. I’m a Undergraduate Computer Science major with hands-on experience in both academic research and industry development. As a web developer intern at Web Surfing Studios, I worked on optimizing front-end workflows, enhancing web applications, and improving performance, which has given me a strong understanding of the challenges developers face with complex build tools.
+
+Additionally, my research in enhancing system robustness, particularly in the context of natural language processing models and representation bias in medical data, has deepened my problem-solving and technical skills. This research experience has instilled in me the importance of streamlining systems and ensuring that tools are not only functional but also efficient and easy to use.
+
+With this project, I’m excited to apply my experience to unify Webpack’s development tools. By extracting and modularizing the hot-reloading logic, deprecating redundant middleware, and transforming Webpack into a monorepo, I aim to simplify the development experience for the wider community—just as I’ve focused on optimizing workflows in my previous roles. My goal is to improve maintainability, performance, and usability, creating a smoother, more cohesive environment for developers.
 
 ## Proposed Solution
 I’ll unify webpack’s dev tools by:
